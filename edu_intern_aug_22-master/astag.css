@@ -1,0 +1,60 @@
+h1{
+    text-align:center;
+    color: teal;
+}
+#maindiv{
+    margin:25px;
+    display: inline-block
+   
+}
+.card{
+    height:500px;
+    width:19%;
+    background-color:aqua;
+    float:left;
+    /*display: inline-block;*/
+    margin:3.5px;
+}
+.cardpg{
+    height:300px;
+    width:100%;
+    background-color:aqua;
+    float:left;
+    margin:3.5px;
+    overflow: scroll
+}
+.cardimg{
+    width:100%;
+    height:300px
+}
+.card > img{
+    width:100%;
+    height:200px
+}
+h2{
+    text-align:center;
+    color: olive
+}
+.slatebrown{
+    color:brown;
+    background-color:#d8ebb9
+}
+.cardp{
+    text-align:center;
+    color:blueviolet
+}
+#slidecard{
+    margin-left:5%;
+    width:80%;
+    display:inline-block;
+    border:2px solid skyblue
+}
+.imgDiv{
+    float:left;
+    width:10%
+}
+.textDiv{
+    float:right;
+    width:55%;
+    margin-left:5%
+}
